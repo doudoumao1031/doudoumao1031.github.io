@@ -1,9 +1,3 @@
-# HuxBlog Boilerplate
-
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
-
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+### 豆豆猫的个人主页
+**网址:**[https://doudoumao1031.github.io](https://doudoumao1031.github.io)
+![豆豆猫](http://otzck41m1.bkt.clouddn.com/bg3.jpg)
