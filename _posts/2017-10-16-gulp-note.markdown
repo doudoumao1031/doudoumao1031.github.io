@@ -37,7 +37,9 @@ tags:
 注：cnpm跟npm用法完全一致，只是在执行命令时将npm改为cnpm（以下操作将以cnpm代替npm）。
 ###### 7、生成paskage.json: npm init PS:package.json是一个普通json文件，所以不能添加任何注释。	*（json不能加注释）*
 
+
 ## gulp：
+
 ###### 1、gulp安装
 &emsp;&emsp; 全局安装了gulp，项目也安装了gulp，全局安装gulp是为了执行gulp任务，本地安装gulp则是为了调用gulp插件的功能。 PS：通过require()调用。
 ###### 2、gulpfile.js文件:
@@ -52,17 +54,15 @@ tags:
         .pipe(gulp.dest('src/css')); //将会在src/css下生成index.css
 	});
  
-	gulp.task('default',['testLess', 'elseTask']); //定义默认任务 elseTask为其他任务，该示例没有定义elseTask任务
- 
-	//gulp.task(name[, deps], fn) 定义任务  name：任务名称 deps：依赖任务名称 fn：回调函数
-	//gulp.src(globs[, options]) 执行任务处理的文件  globs：处理的文件路径(字符串或者字符串数组) 
-	//gulp.dest(path[, options]) 处理完后文件生成路径
+	gulp.task('default',['testLess', 'elseTask']); 
+	//定义默认任务 elseTask为其他任务，该示例没有定义elseTask任务
 
 ###### 3、使用webstorm运行gulp任务:<br>
 右键gulpfile.js 选择”Show Gulp Tasks”打开Gulp窗口，若出现”No task found”，选择右键”Reload tasks”，双击运行即可。
 
 
 ## gulp APIs:
+>[原文：https://github.com/gulpjs/gulp/blob/master/docs/API.md](https://github.com/gulpjs/gulp/blob/master/docs/API.md)
 
 
 ###### 1、gulp.task(name[, deps], fn)
