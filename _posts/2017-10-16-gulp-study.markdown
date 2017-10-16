@@ -35,4 +35,28 @@ tags:
 &emsp;&emsp; 6.1、官方网址：http://npm.taobao.org；<br>
 &emsp;&emsp; 6.2、安装：命令提示符执行npm install cnpm -g --registry=https://registry.npm.taobao.org；  注意：安装完后最好查看其版本号cnpm -v或关闭命令提示符重新打开，安装完直接使用有可能会出现错误；
 注：cnpm跟npm用法完全一致，只是在执行命令时将npm改为cnpm（以下操作将以cnpm代替npm）。
+##### 7、生成paskage.json: npm init PS:package.json是一个普通json文件，所以不能添加任何注释。	*（json不能加注释）*
 
+## gulp
+##### 1、gulp安装
+&emsp;&emsp; 全局安装了gulp，项目也安装了gulp，全局安装gulp是为了执行gulp任务，本地安装gulp则是为了调用gulp插件的功能。 PS：通过require()调用。
+##### 2、gulpfile.js文件:
+	//导入工具包 require('node_modules里对应模块')
+	var gulp = require('gulp'), //本地安装gulp所用到的地方
+    less = require('gulp-less');
+ 
+	//定义一个testLess任务（自定义任务名称）
+	gulp.task('testLess', function () {
+    gulp.src('src/less/index.less') //该任务针对的文件
+        .pipe(less()) //该任务调用的模块
+        .pipe(gulp.dest('src/css')); //将会在src/css下生成index.css
+	});
+ 
+	gulp.task('default',['testLess', 'elseTask']); //定义默认任务 elseTask为其他任务，该示例没有定义elseTask任务
+ 
+	//gulp.task(name[, deps], fn) 定义任务  name：任务名称 deps：依赖任务名称 fn：回调函数
+	//gulp.src(globs[, options]) 执行任务处理的文件  globs：处理的文件路径(字符串或者字符串数组) 
+	//gulp.dest(path[, options]) 处理完后文件生成路径
+
+##### 3、使用webstorm运行gulp任务:<br>
+右键gulpfile.js 选择”Show Gulp Tasks”打开Gulp窗口，若出现”No task found”，选择右键”Reload tasks”，双击运行即可。
