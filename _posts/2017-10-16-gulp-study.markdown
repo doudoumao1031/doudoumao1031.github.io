@@ -10,7 +10,7 @@ tags:
     - JavaScript
     - 翻译
 ---
-![java-javascript](/img/in-post/post-gulp/gulp-logo.png)
+![java-javascript](/img/in-post/post-gulp/gulp-logo-mini.png)
 # The streaming build system
 ## What is gulp?
 - Automation - gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
