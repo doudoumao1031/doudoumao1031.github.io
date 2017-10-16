@@ -1,14 +1,13 @@
 ---
 layout:     post
 title:      "gulp学习笔记"
-subtitle:   "gulp,webpack"
+subtitle:   "gulp,gulp-plugins"
 date:       2017-10-16
 author:     "doudoumao"
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - 前端开发
     - JavaScript
-    - 翻译
 ---
 ![java-javascript](/img/in-post/post-gulp/gulp-logo-mini.png)
 # The streaming build system
