@@ -4,7 +4,7 @@ title:      "gulp-plugins笔记"
 subtitle:   "gulp,gulp-plugins,npm,cnpm"
 date:       2017-10-17
 author:     "doudoumao"
-header-img: "img/post-bg-gulp.jpg"
+header-img: "img/post-bg-gulp1.jpg"
 tags:
     - 前端开发
     - JavaScript
