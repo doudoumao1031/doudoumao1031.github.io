@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Personal Resume"
+title:      "李昂的个人简历 Personal Resume"
 subtitle:   "ES5"
 date:       2017-10-31
-author:     "Hux"
+author:     "Leon"
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - 前端开发
