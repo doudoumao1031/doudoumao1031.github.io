@@ -1,0 +1,267 @@
+---
+layout:     post
+title:      "Personal Resume"
+subtitle:   "ES5"
+date:       2017-10-31
+author:     "Hux"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - 前端开发
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>DIYgod的简历</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="前端,工作,简历">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="dist/css/style.min.css">
+    <link rel="stylesheet" href="dist/css/fontello.min.css">
+    <link rel="stylesheet" href="lib/zoom.css">
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-48084758-4', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="title">
+                <!--<img src="https://diygod.b0.upaiyun.com/resume-head.png" data-action="zoom">-->
+                <h1>李 昂</h1>
+            </div>
+            <ul class="side-info">
+                <li class="someRight">
+                    <dt><i class="icon-bookmark"></i>Contact. 联系方式</dt>
+                    <dd><i class="icon-phone-1"></i>电话: 15123009609</dd>
+                    <dd><i class="icon-mail-alt"></i>邮箱: <a href="mailto:549580311@qq.com" target="_blank">549580311@qq.com</a></dd>
+                    <!--<dd><i class="icon-wechat"></i>微信: </dd>-->
+                    <dd><i class="icon-qq"></i>QQ: <a href="http://wpa.qq.com/msgrd?v=3&uin=549580311&site=qq&menu=yes" target="_blank">549580311</a></dd>
+                </li>
+                <li class="someRight">
+                    <dt><i class="icon-bookmark"></i>Application. 应聘岗位</dt>
+                    <dd>前端工程师</dd>
+                </li>
+            </ul>
+            <!--<div class="note">-->
+                <!--<p>对技术本身有朴素的热爱也有专研的执着。</p>-->
+                <!--<p>性格开朗、随和、积极，在工作上能和同事相互协助领导关系融洽，对待工作任务有高度的责任心。</p>-->
+                <!--<p>前端领域是一个技术迭代极快，新技术新框架层出不穷的科技领域，非有极客精神的CODER才能在这一领域存活并成长。</p>-->
+                <!--<p>本人有很强的自驱力，英文能力过硬，接触新技术有研读跟踪国外最新技术框架文档的狼性思维习惯。</p>-->
+                <!--<p>目前正在寻找前端工程师岗位的工作机会，并希望以极大的工作热情和拼劲儿投入到工作中为所在公司的发展献上绵薄之力也和公司共同成长。</p>-->
+            <!--</div>-->
+        </div>
+        <div class="main">
+            <ul class="main-info">
+                <li class="someRight">
+                    <dt><i class="icon-bookmark"></i>Basic info. 基本信息</dt>
+                    <dd><strong>个人信息:</strong> <span>李昂 / 男</span></dd>
+                    <dd><strong>毕业院校:</strong> <span>北京语言大学（国家教育部直属一本院校 高中由市直属中学重庆一外保送就读）</span></dd>
+                    <dd><strong>年龄:</strong> <span>27</span></dd>
+                    <!--<dd><strong>GitHub:</strong> <a href="https://www.github.com/doudoumao1031" target="_blank">www.github.com/doudoumao1031</a>-->
+                    <dd><strong>个人技术博客:</strong> <a href="https://doudoumao1031.github.io" target="_blank">doudoumao1031.github.io</a>
+                    </dd>
+                </li>
+                <li>
+                    <dt><i class="icon-bookmark"></i>Skill. 个人简介</dt>
+                    <!--<h3>自我陈述</h3>-->
+                    <ul class="exp">
+                        <li>
+                            <div class="circle"></div>
+                            <h4>自我陈述</h4>
+                            <p>本人有很强的自驱力，对担负的任务有高度的责任心，工作热情高涨，工作主动、积极，有拼劲。</p>
+                            <p>自信，开朗，沟通能力强，能与同事融洽相处，相互积极配合，团队协作好。</p>
+                            <p>本人极具进取精神， 英文功底扎实，有研读跟踪国外最新技术框架文档，跟踪技术热点的思维习惯。对技术本身有朴素的热爱，有执著的钻研精神。</p>
+                            <p>前端领域是一个技术迭代极快，新技术、新框架层出不穷的编程细分领域，一定要有极客精神的CODER才能在这一领域存活、成长，我坚信自己的实力和进取精神，能成为一个优秀的前端工程师。</p>
+                            <p>我目前正在寻找前端工程师的工作岗位，希望以自己坚实的能力、极大的工作热情和充沛的拼劲儿投入到工作中，为公司的发展献上绵薄之力，与公司共同成长。</p>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <dt><i class="icon-bookmark"></i>Experience. 项目经验</dt>
+                    <!--<h3>自我陈述</h3>-->
+                    <ul class="exp">
+                        <li>
+                            <div class="circle"></div>
+                            <h4>西南大学党政办公室内部OA系统升级项目（2016.4）</h4>
+                            <p><strong>基本描述：</strong></p>
+                            <p>个人于项目后期，运维交付阶段参与该项目。当时该项目发生ORACLE数据库在高并发状态下性能骤降，间断性宕机，导致西南大学官网首页信息栏无法正常加载、显示等状况，急需解决。</p>
+                            <p>我和项目经理，进驻西南大学信管办公室现场，
+                                和校方相关人员协调，进行技术讨论，分析原因，提出解决方案，叁与现场轮班监控，
+                                处理突发性状况，成功地解决了问题。最后，该项目经第三方测评，圆满交付。
+                                我公司的专业能力、专注精神、高效执行力受到了校方高度评价。</p>
+                            <p><strong>亮点：</strong></p>
+                            <p>我个人，在项目进行过程中表现出很强的主动性、高度的责任心、
+                                较好的技术攻关能力，通过仔细查看技术白皮书，多方查找资料，
+                                进行深入的分析论证，最终确认了ORACLE数据库的BUG原因，给出了正确的解决方案。  </p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>永川区政府“智慧永川协同办公平台”项目（一期、二期）（2016.6-至今）</h4>
+                            <p><strong>基本描述：</strong></p>
+                            <p>我全程参与该项目，包括前期客户关系协调，竞争对手了解、分析，项目调研，
+                                项目招投标，OA项目实施，数据库迁移，平台搭建，业务逻辑构建、实施等。
+
+                                由于参与了项目的各个环节，担负多个角色，极大地锻炼了个人的技术能力、
+                                统筹规划能力、协调沟通能力、执行能力。</p>
+                            <p><strong>亮点：</strong></p>
+                            <p>技术上，本人承担了该项目的全部前端二次开发工作，包括基于CSS/jQuery的动画实现、
+                                基于Bootstrap的界面优化、基于Echarts的数据可视化，
+                                后台业务逻辑实现等</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>永川区政府“智慧永川协同办公平台”项目智能会议系统（2017.3-至今）</h4>
+                            <p><strong>个人职能：</strong></p>
+                            <p>我参与该项目产品方案研讨、编制，产品术选型，前期厂家联络，
+                                二次开发方案分析、制定，构建开放技术接口，完成产品对接等环节。</p>
+                            <p><strong>亮点：</strong></p>
+                            <p>承担了该项目前端的二次开发工作。我根据政务系统的特点，通过充分的需求调研，严密的技术分析、论证，确定了简洁、大气、易操作的交互设计方案。充分利用厂家的开放接口和相关最新技术，对原有会议系统的前端呈现做出了大幅优化，
+                                增加了政府工作时间表、内部单位联络簿、中国红新等元素，取得了很好的效果。</p>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <dt><i class="icon-bookmark"></i>Skill. 个人技能点</dt>
+                    <h3>前端</h3>
+                    <ul class="exp">
+                        <li>
+                            <div class="circle"></div>
+                            <h4>HTML / HTML5</h4>
+                            <div class="pro"></div>
+                            <p>能够编写语义化的 HTML，模块化的 CSS，完成较复杂的布局</p>
+                            <p>掌握基于HTML5的音频视频，canvas画布以及web存储技术</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>CSS / CSS3</h4>
+                            <div class="pro"></div>
+                            <p>能够编写模块化的 CSS，完成较复杂的页面效果以及重构</p>
+                            <p>掌握基于CSS3相关API以及2D/3D动画以及特效</p>
+                        </li>
+                        <li>
+                            <h4>Sass / Compass</h4>
+                            <p>熟练使用Sass以及Sass之上的再封装Compass等CSS/CSS3预处理和模块化工具</p>
+                            <p>并以此对代码进行高效健壮的规范化开发</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>JavaScript</h4>
+                            <p>熟悉原生 Javascript，对闭包，原型链等原理有一定的理解</p>
+                            <p>能运用模块化、面向对象的方式编程</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>工程自动化</h4>
+                            <p>熟悉 Webpack,Gulp,Grunt 等前端自动化工具</p>
+                            <p>了解前端安全、性能优化方面的一些知识</p>
+                            <!--<p>有 HTML5 音乐播放器（<a href="https://github.com/DIYgod/APlayer" target="_blank">APlayer</a>）、视频播放器（<a href="https://github.com/DIYgod/DPlayer" target="_blank">DPlayer</a>）开发经验</p>-->
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>UI框架,插件</h4>
+                            <p>在实际开发过程中接触过但不限于包括 Bootstrap，jQuery，jekyll, markdown, FullCalendar，Font Awesome， E-Charts， jQuery Validation Plugin，C3 charts，Nice scroll， Auto resize textarea在内的相关技术框架/插件</p>
+                            <p>能运用模块化、面向对象的方式编程</p>
+                        </li>
+                    </ul>
+                    <h3>后端</h3>
+                    <ul class="exp">
+                        <li>
+                            <div class="circle"></div>
+                            <h4>java</h4>
+                            <p>了解 java 的开发，使用 MySQL 做数据存储和基于SpringMVC的JavaEE业务架构</p>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <dt><i class="icon-bookmark"></i>Experience. 个人作品与工作经验</dt>
+                    <h3>个人作品</h3>
+                    <ul class="exp">
+                        <!--<li>-->
+                            <!--<div class="circle"></div>-->
+                            <!--<h4>-->
+                                <!--<span>基于HTML5的简单静态页面</span>-->
+                                <!--<a href="https://github.com/DIYgod/APlayer" target="_blank"><i class="icon-link"></i>源代码</a>-->
+                                <!--<a href="https://aplayer.js.org/" target="_blank"><i class="icon-link"></i>Demo</a>-->
+                                <!--<iframe src="https://ghbtns.com/github-btn.html?user=DIYgod&repo=APlayer&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>-->
+                            <!--</h4>-->
+                            <!--<p>炒鸡好看的 HTML5 音乐播放器，支持歌词、播放列表、播放模式（循环播放、随机播放等），兼容现代浏览器和移动端，API 丰富、可扩展性强，Typecho、Hexo、WordPress 平台插件支持</p>-->
+                            <!--<p>曾进入 <a href="https://github.com/trending" target="_blank">GitHub 热门榜单（GitHub Trending repositories）</a>第八名，Star 数 1.4k+，npm 下载量 17k+</p>-->
+                            <!--<p>原生 js 编写，无任何依赖，使用 webpack 和 sass 构建</p>-->
+                            <!--<img src="img/mianbao.JPG" data-action="zoom" width="300px">-->
+                        <!--</li>-->
+                        <li>
+                            <div class="circle"></div>
+                            <h4>
+                                <span>基于HTML5/jQuery/CSS3的静态网页重构</span>
+                            </h4>
+                            <img src="img/psd2html1.png" data-action="zoom" width="300px">
+                            <br />
+                            <img src="img/nvxing.JPG" data-action="zoom" width="300px">
+                            <br />
+                            <img src="img/youxi.JPG" data-action="zoom" width="300px">
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>
+                                <span>基于jquery/jquery UI搭建的流体式相册</span>
+                            </h4>
+                            <img src="img/hslider1.jpeg" data-action="zoom" width="300px">
+                            <br />
+                            <img src="img/hslider2.png" data-action="zoom" width="400px">
+                            <br />
+                            <img src="img/hslider3.jpg" data-action="zoom" width="400px">
+                            <br />
+                            <img src="img/hslider4.jpg" data-action="zoom" width="400px">
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>
+                                <span>基于jquery/canvas/echarts数据可视化产品</span>
+
+                            </h4>
+                            <p>Wordpress 主题开发，内容维护，日均PV 6000+</p>
+                            <img src="img/echarts1.png" data-action="zoom" width="600px">
+                            <br /><br />
+                            <img src="img/echarts2.png" data-action="zoom" width="500px">
+                            <br /><br />
+                            <img src="img/echarts3.png" data-action="zoom" width="500px">
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>
+                                基于gentallela管理后台界面
+                            </h4>
+                            <ul class="efe">
+                                <li>
+                                    <img src="img/gent1.png" data-action="zoom" width="600px">
+                                    <br /><br />
+                                    <img src="img/gent2.png" data-action="zoom" width="600px">
+                                    <br /><br />
+                                    <img src="img/gent3.png" data-action="zoom" width="600px">
+                                    <br /><br />
+                                    <img src="img/gent4.png" data-action="zoom" width="600px">
+                                    <br /><br />
+                                    <img src="img/gent5.png" data-action="zoom" width="600px">
+                                    <br /><br />
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+
+
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <script src="lib/zoom.min.js"></script>
+</body>
+</html>
