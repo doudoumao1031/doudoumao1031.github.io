@@ -8,7 +8,6 @@ header-img: "img/post-bg-js-version.jpg"
 tags:
     - 前端开发
 ---
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -249,7 +248,8 @@ tags:
                                     <br /><br />
                                     <img src="img/gent4.png" data-action="zoom" width="600px">
                                     <br /><br />
-                                    <img src="img/gent5.png" data-action="zoom" width="600px">
+                                    <img src="/img/in-post/post-resume/gent5.png" data-action="zoom" width="600px">
+									![gent5](/img/in-post/post-resume/gent5.png)
                                     <br /><br />
                                 </li>
                             </ul>
