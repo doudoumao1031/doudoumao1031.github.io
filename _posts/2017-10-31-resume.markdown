@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "李昂的个人简历 Personal Resume"
-subtitle:   "ES5"
+title:      "李昂的个人简历"
+subtitle:   "Personal Resume"
 date:       2017-10-31
 author:     "Leon"
 header-img: "img/post-bg-js-version.jpg"
