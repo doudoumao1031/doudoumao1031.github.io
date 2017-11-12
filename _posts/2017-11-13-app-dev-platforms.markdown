@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Hybrid-app development platforms"
+title:      "Hybrid-app开发平台对比"
 subtitle:   "Cordova,Mui/Dcloud,React Native"
 date:       2017-11-13
-author:     "doudoumao"
+author:     "Lee"
 header-img: "img/post-bg-js-module.jpg"
 tags:
     - 前端开发
